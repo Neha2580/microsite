@@ -1,6 +1,7 @@
 site_name: OptumAI Microsite
 theme: 
- name: readthedocs
+ name: material
+ logo: img/optum.png
 
 plugins:
   - mkdocs-video:
