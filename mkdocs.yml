@@ -1,3 +1,6 @@
 site_name: OptumAI Portfolio Documentation
 theme: 
  name: readthedocs
+
+plugins:
+  - mkdocs-video:
