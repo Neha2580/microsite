@@ -1,6 +1,6 @@
 site_name: OptumAI Microsite
 theme: 
- name: material
+ name: dracula
  logo: img/optum.png
 
 plugins:
