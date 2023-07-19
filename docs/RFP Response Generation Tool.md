@@ -1,5 +1,7 @@
 #RFP Response Generation Tool
 
+Contact: Prassanna Venkatesh [<span style="color: blue;">email</span>](mailto:venkatesh_prassanna@optum.com) / Sandeep Sharma [<span style="color: blue;">email</span>](mailto:sandeep.sharma@optum.com)
+
 ##Overview
 
 Request For Proposal (RFP) is a document that solicits a proposal by government or company or any organization, usually they ask for certain questions to understand the capability of the bidders and why they are best suited to win this proposal. Every year, UHG has been submitting and winning multiple RFPs. In some of the RFPs, questionnaire document runs into hundreds of pages easily with lot of questions. Currently, there are multiple teams in UHG who write responses to these questions manually. This requires huge amount of time and resources. We want to utilize the recent advancements in LLM models to benefit these teams by automating the response generation for such questions in the RFP documents.
@@ -29,6 +31,6 @@ When a new RFP is received, the generator extracts questions from the document i
 
 #Reference
 
-Github Repo - [Click Here](https://github.optum.com/apunetha/RFP-response-generation/)
+Github Repo - [<span style="color: blue;">click here</span>](https://github.optum.com/apunetha/RFP-response-generation/)
 
-Aha Idea - [Click Here](https://chatgptllm.ideas.aha.io/ideas/CHATGPTLLM-I-261/)
+Aha Idea - [<span style="color: blue;">click here</span>](https://chatgptllm.ideas.aha.io/ideas/CHATGPTLLM-I-261/)

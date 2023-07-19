@@ -1,7 +1,7 @@
 #SAS program to Python tool
 
 
-Contact: Prassanna Venkatesh [email](venkatesh_prassanna@optum.com) / Sandeep Sharma [email](sandeep.sharma@optum.com)
+Contact: Prassanna Venkatesh [<span style="color: blue;">email</span>](mailto:venkatesh_prassanna@optum.com) / Sandeep Sharma [<span style="color: blue;">email</span>](mailto:sandeep.sharma@optum.com)
 
 
 
@@ -64,8 +64,8 @@ Steps in self-repair mechanism:
 
 #Reference
 
-Github Repo - [Click Here](https://github.optum.com/dkarth10/code_convertor/)
+Github Repo - [<span style="color: blue;">click here</span>](https://github.optum.com/dkarth10/code_convertor/)
 
-Aha Idea - [Click Here](http://127.0.0.1:8000/)
+Aha Idea - [<span style="color: blue;">click here</span>](http://127.0.0.1:8000/)
 
 ![type:video](./vid/SAS-to-Python.mp4)

@@ -1,6 +1,8 @@
 #Member Assessment with Digital Twin
 
-Contact: Prassanna Venkatesh [email](venkatesh_prassanna@optum.com) / Sandeep Sharma [email](sandeep.sharma@optum.com)
+
+Contact: Vaneshmanoj Murugan [<span style="color: blue;">email</span>](mailto:vaneshmanoj.murugan@optum.com) / Sandeep Sharma [<span style="color: blue;">email</span>](mailto:sandeep.sharma@optum.com)
+
 
 ##Overview
 ##What is a Digital Twin?
@@ -59,6 +61,6 @@ Genome sequence.|
 
 #Reference
 
-Github Repo - [Click Here](https://github.optum.com/pvenka53/India_Internships_2023_Sandeep/tree/main/Digital%20Twin/)
+Github Repo - [<span style="color: blue;">click here</span>](https://github.optum.com/pvenka53/India_Internships_2023_Sandeep/tree/main/Digital%20Twin/)
 
-Aha Idea - [Click Here](https://chatgptllm.ideas.aha.io/ideas/CHATGPTLLM-I-260/)
+Aha Idea - [<span style="color: blue;">click here</span>](https://chatgptllm.ideas.aha.io/ideas/CHATGPTLLM-I-260/)

@@ -5,3 +5,8 @@ theme:
 
 plugins:
   - mkdocs-video:
+
+extra_css:
+  - stylesheets/extra.css
+
+
